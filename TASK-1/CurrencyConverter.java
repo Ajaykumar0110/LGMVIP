@@ -1,5 +1,5 @@
 
-//we should package for Currency_Converter;
+//we should use package for Currency_Converter;
 
 public class CurrencyConverter extends javax.swing.JFrame {
 double US_Dollar = 1.31;
