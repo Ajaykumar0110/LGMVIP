@@ -247,7 +247,7 @@ String[] currencyUnits = {
 	default:amountInPounds = 0.0;
         }
 
-        //amount is Changed in pounds
+        //amount is Changed into pounds
         
         switch(secondCountry.getSelectedItem().toString())
         {
